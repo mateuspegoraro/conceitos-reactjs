@@ -15,7 +15,7 @@ function App() {
 
   async function handleAddRepository() {
     const repository = {
-        "title" : "Conceitos React JS",
+        "title" : "Conceitos Spring Boot",
         "url" : "https://github.com/mateuspegoraro/forum-spring",
         "techs" : ["spring", "jwt", "java"]
       }
